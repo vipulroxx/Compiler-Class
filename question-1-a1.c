@@ -1,3 +1,11 @@
+/*
+Vipul Sharma
+1741012369
+CSC A
+Assignment 1
+Question 1 : Write a C program to display contents of a file on screen.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -10,7 +18,7 @@ int main()
     filePointer = fopen(fileName, "r");
     if (filePointer == NULL)
     {
-        printf("Cannot file open \n");
+        printf("Cannot open file \n");
         exit(0);
     }
     c = fgetc(filePointer);
