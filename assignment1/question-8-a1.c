@@ -3,7 +3,7 @@ Vipul Sharma
 1741012369
 CSC A
 Assignment 1
-Question 7 : Write a C program to remove all blank spaces from a file.
+Question 8 : Write a C program to remove all blank spaces from a file.
  */
 
 #include <stdio.h>
