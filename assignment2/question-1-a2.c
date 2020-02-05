@@ -2,7 +2,7 @@
 Vipul Sharma
 1741012369
 CSC A
-Assignment 1
+Assignment 2
 Question 1 : Write a C program which will do the following tasks :
         a :  Randomly generate 10 numbers from the range 1 - 50 and store them to a file named 'source.txt'.
         b :  Store the numbers into an array from the file 'source.txt' and sort it using any sorting algorithm.
